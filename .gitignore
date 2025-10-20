@@ -1,0 +1,13 @@
+# 🎯 ARCHIVOS COMPILADOS JAVA
+*.class
+*.jar
+*.war
+*.ear
+
+# 💻 ARCHIVOS DE IDE
+/.idea/
+/.vscode/
+*.iml
+*.iws
+*.ipr
+/.settings/
